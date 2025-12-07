@@ -1,0 +1,4 @@
+wwwroot\css\style.css
+wwwroot\favicon.ico
+F:\Azure\Project\MvcDemo25\MvcDemo25.Web\wwwroot\css\style.css
+F:\Azure\Project\MvcDemo25\MvcDemo25.Web\wwwroot\favicon.ico
